@@ -1,0 +1,64 @@
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\bin\Debug\Juego de cartas.exe
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\bin\Debug\Juego de cartas.pdb
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\bin\Debug\Juego de cartas.xml
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form1.resources
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form2.resources
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Resources.resources
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\Juego de cartas.exe
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\Juego de cartas.xml
+C:\Users\Villalobos\AppData\Local\Temporary Projects\Juego de cartas\obj\x86\Debug\Juego de cartas.pdb
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.exe
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.xml
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.pdb
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.exe
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.pdb
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.xml
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form1.resources
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form2.resources
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Resources.resources
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Villalobos\documents\visual studio 2010\Projects\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form3.resources
+G:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.xml
+G:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.pdb
+G:\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.exe
+G:\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.pdb
+G:\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.xml
+G:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form1.resources
+G:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form2.resources
+G:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form3.resources
+G:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Resources.resources
+G:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.vbproj.GenerateResource.Cache
+G:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.exe
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.exe
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.xml
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.pdb
+F:\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.exe
+F:\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.pdb
+F:\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.xml
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form1.resources
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form2.resources
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form3.resources
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Resources.resources
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.vbproj.GenerateResource.Cache
+F:\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form4.resources
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.exe
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.xml
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.pdb
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form1.resources
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form2.resources
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form3.resources
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form4.resources
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Resources.resources
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.exe
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.pdb
+C:\Users\Villalobos\Desktop\Juego de cartas\Juego de cartas\bin\Debug\Juego de cartas.xml
+D:\Sandbox\Villa\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.xml
+D:\Sandbox\Villa\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.pdb
