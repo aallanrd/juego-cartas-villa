@@ -1,7 +1,6 @@
 ﻿Public Class Banderas
-    Private imagen As String
-    Private col As Integer
-    Private x As Integer
-    Private y As Integer
+
+    Public id As Integer
+    Public col As Integer
 
 End Class

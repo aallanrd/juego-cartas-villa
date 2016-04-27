@@ -9,7 +9,6 @@
 
     Private Sub Form3_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
-        
 
         s = 0
         TextBox1.Text = s
@@ -41,23 +40,11 @@
             Next
         Next
 
-
-
-
-
-
-
-
-
-
         If Form1.CheckBox1.Checked = True Then
             Label10.Text = Form2.TextBox1.Text
             Label3.Visible = False
             Label7.Visible = False
             Label9.Visible = False
-
-
-
 
         ElseIf Form1.CheckBox2.Checked = True Then
             Label10.Text = Form2.TextBox1.Text
@@ -66,9 +53,6 @@
 
 
     End Sub
-
-
-
 
 
     Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
