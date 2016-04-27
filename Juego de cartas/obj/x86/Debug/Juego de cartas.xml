@@ -22,7 +22,7 @@ Juego de cartas
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="P:Juego_de_cartas.My.Resources.Resources.fondo_inicio">
+<member name="P:Juego_de_cartas.My.Resources.Resources.minimalism1">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
