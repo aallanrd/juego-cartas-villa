@@ -64,14 +64,11 @@ D:\Sandbox\Villa\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.x
 D:\Sandbox\Villa\Juego de cartas\Juego de cartas\obj\x86\Debug\Juego de cartas.pdb
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego de cartas.xml
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego de cartas.pdb
-D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form1.resources
-D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form2.resources
-D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Form3.resources
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Resources.resources
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego de cartas.vbproj.GenerateResource.Cache
-D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego_de_cartas.frmButton.resources
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\bin\Debug\Juego de cartas.exe
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\bin\Debug\Juego de cartas.pdb
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\bin\Debug\Juego de cartas.xml
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego de cartas.exe
 D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego_de_cartas.Principal.resources
+D:\Sandbox\Villa\juego-cartas-villa\Juego de cartas\obj\x86\Debug\Juego de cartas.vbprojResolveAssemblyReference.cache
